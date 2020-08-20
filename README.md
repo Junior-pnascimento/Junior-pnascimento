@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I'm Junior Nascimento.
 I'm a full stack developer :computer:
 
-- :red_heart:   React Native
+- :❤️:   React Native
 - :computer:   ReactJS, Node, React Native, Typescript
 - 💬   Ask me about: tech, games, movies
 
